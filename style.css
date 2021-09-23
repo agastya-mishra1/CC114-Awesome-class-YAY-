@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+}
+#Title{
+    font-size:60px;
+    width:750px;
+    
+}
+#snap{
+    font-size: 30px;
+    background-color: green;
+    width:400px;
+    color:white;
+}
